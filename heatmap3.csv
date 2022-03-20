@@ -1,31 +1,19 @@
 variable,group,value
-Population,Alabama,5024279
 Population Change %,Alabama,5.1
-Housing Units,Alabama,2288330
 Housing Vacancy,Alabama,12.1
 Change in Housing Units %,Alabama,5.4
-Population,Michigan,10077331
 Population Change %,Michigan,2
-Housing Units,Michigan,4570173
 Housing Vacancy,Michigan,11.6
 Change in Housing Units %,Michigan,0.8
-Population,New Mexico,2117522
 Population Change %,New Mexico,2.8
-Housing Units,New Mexico,940859
 Housing Vacancy,New Mexico,11.8
 Change in Housing Units %,New Mexico,4.4
-Population,New York,20201249
 Population Change %,New York,4.2
-Housing Units,New York,8488066
 Housing Vacancy,New York,9.1
 Change in Housing Units %,New York,4.7
-Population,Rhode Island,1097379
 Population Change %,Rhode Island,4.3
-Housing Units,Rhode Island,483474
 Housing Vacancy,Rhode Island,8.7
 Change in Housing Units %,Rhode Island,4.3
-Population,Texas,29145505
 Population Change %,Texas,15.9
-Housing Units,Texas,11589324
 Housing Vacancy,Texas,9.5
 Change in Housing Units %,Texas,16.2
